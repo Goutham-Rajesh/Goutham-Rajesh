@@ -23,8 +23,16 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)    
+  
+---
+### ⚙️ &nbsp;GitHub Analytics
 
-
+<p align="center">
+<a href="https://github.com/ShubhamSarda">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Goutham-Rajesh&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Goutham-Rajesh&layout=compact&langs_count=8&theme=buefy"/>
+</a>
+</p>
 ---
 
 ### Spotify Playing 🎧
