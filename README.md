@@ -12,9 +12,11 @@
 ### 🛠 &nbsp;Languages and Tools
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-  ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-092E20?style=flat&logo=django)
-  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot)
+  ![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat&logo=springsecurity)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL)  
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
